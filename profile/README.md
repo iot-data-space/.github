@@ -15,4 +15,4 @@ was implemented with the [Dare project](https://excid-io.github.io/dare/).
 This functionality is being implemented by the [MILESTONE](https://https://excid-io.github.io/dare/))
 
 ## Credits
-This project is developed by [Excid](https://excid.io) and [Plegma labs][https://pleg.ma]
+This project is developed by [Excid](https://excid.io) and [Plegma labs](https://pleg.ma)
